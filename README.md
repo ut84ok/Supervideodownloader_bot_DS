@@ -26,7 +26,7 @@ git clone https://github.com/ваш-логин/telegram-video-downloader.git
 pip install -r requirements.txt
 3. Get the API ID and Hash on my.telegram.org
 
-**## 🚀 Using:**
+## 🚀 Using:
 1. Enter the API data
 2. Log in using the Telegram code
 3. Specify:
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - The folder to save
 4. Click "Start downloading"
 
-**## ⚙️ Technology**
+## ⚙️ Technology
 - Python 3.8+
 - Telethon (MTProto API)
 - Tkinter (GUI)
